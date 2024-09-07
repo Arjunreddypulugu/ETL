@@ -1,9 +1,5 @@
 # ETL Project Analysis
 
-## Team Members
-
-Dianne Jardin**e**z, Aas**t**ha Arora, Swarna **L**atha
-
 ## Project Summary
 The objective of this project was to extract data from websites and available  APIs. The following datasets were then transformed by cleaning, joining, and filtering into nine tables. The object-relational database, PostgreSQL, was used to load the datasets into pgAdmin.
 
